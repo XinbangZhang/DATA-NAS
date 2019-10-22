@@ -1,3 +1,6 @@
 # DATA-NAS
 Codes for DATA: Differentiable ArchiTecture Approximation.
-Coming soon...
+
+Please wait for the core code.
+
+Pytorch1.0
